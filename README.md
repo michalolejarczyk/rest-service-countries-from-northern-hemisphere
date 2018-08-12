@@ -3,8 +3,8 @@ Spring Restful Web Service using Spring MVC that takes IP addresses and returns
 Information about IP addresses are taken from IP Vigilante API https://www.ipvigilante.com/api-developer-docs/.
 
 Service info:
--GET request
--endpoint accept at least 1 and maximum 5 ip addresses
+- GET request
+- endpoint accept at least 1 and maximum 5 ip addresses
 - response contain list of unique names (no repetitions of names) sorted alphabetically
 
 Example case:

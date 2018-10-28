@@ -1,5 +1,5 @@
 # rest-service-countries-from-northern-hemisphere
-Spring Restful Web Service using Spring MVC that takes IP addresses and returns list of countries from the northern hemisphere.
+Restful Web Service using Spring Boot and Gradle that takes IP addresses and returns list of countries from the northern hemisphere.
 Information about IP addresses are taken from IP Vigilante API https://www.ipvigilante.com/api-developer-docs/.
 
 Service info:
